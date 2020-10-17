@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "LI Jiayuan (Abby)"
-  avatar           : "profile.png"
-  bio              : "Currently a senior EIE student from CUHK(SZ). I'm interested in Robotics Perception and Multimedia Signal Processing."
+  avatar           : "profile.jpg"
+  bio              : "Currently a senior EIE student from CUHK(SZ).\\ I'm interested in Robotics Perception and Multimedia Signal Processing."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
