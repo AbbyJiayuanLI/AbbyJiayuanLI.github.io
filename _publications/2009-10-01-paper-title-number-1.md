@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Improving The Robot Localization Accuracy Using Range-only Data: An Optimization Approach"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/paper-1
+excerpt: 'Still waiting for submition due to the postpone of RoBio conference.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
