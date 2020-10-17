@@ -16,10 +16,11 @@ main:
     url: /year-archive/
     
   - title: "My little Interests!"
-    url: /interests/
+    url: /markdown/
     
 #   - title: "CV"
 #     url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
+
