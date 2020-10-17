@@ -2,7 +2,7 @@
 title: "Improving The Robot Localization Accuracy Using Range-only Data: An Optimization Approach"
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'Still waiting for submition due to the postpone of RoBio conference.'
+excerpt: 'Still waiting for submission due to the postpone of RoBio conference.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
