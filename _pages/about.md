@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior Electronic Information Engineering (EIE) major undergradute in The Chinese University of Hong Kong, Shenzhen (CUHKSZ). 
+I'm a senior Electronic Information Engineering major undergradute in The Chinese University of Hong Kong, Shenzhen. 
 
 My current interests are sensor-based perception (Camera, Liadar) and Audio & Image Signal Processing.
 
