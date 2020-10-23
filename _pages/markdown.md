@@ -7,6 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-I have developed many interests in my young age. Thanks to my mom who teaches me to have more "friends" in life not only study.
+I have developed many interests in my young age. Thanks to my mom who told me to have more "friends" in life not only study.
 
 ## 
