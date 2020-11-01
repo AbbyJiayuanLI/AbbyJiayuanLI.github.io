@@ -12,12 +12,5 @@ I'm a senior Electronic Information Engineering major undergradute in The Chines
 
 My current interests are the application of optimization and machine learning in Signal Processing and Wireless Communication.
 
-A data-driven personal website
-======
-
-Create content & metadata
-------
-
-**Markdown generator**
 
 
